@@ -1,0 +1,22 @@
+Descriptive Data
+the data which provides some imformation known as Descriptive Data Sets.
+
+Central Tendency
+It is a value that try to describes a data by identifing the central position of that data set. Example-Mean,Mode,Median
+
+Mean= Average of a particular Data set
+a=[25,35,55,65,40,90,75]
+total=25+65+35+55+40+90+75
+Mean=550/7
+
+Mode= The most occuring value of a data set
+d=[25,30,55,75,95,55,95,55,64]
+Mode=55
+
+Median= 
+d=[23,45,47,55,67,69,78,98,99]
+Median=67
+
+d1=[23,45,65,75,78,88]
+Median=65+75/2
+Median=
